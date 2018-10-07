@@ -1,0 +1,32 @@
+				Le jeu du 8 américain
+				
+
+	POUR DEMARRER
+Le début du jeu s'opère dans la console, puis, si l'utilisateur le souhaite, dans la fenêtre graphique.
+
+
+	INFORMATIONS
+
+ - Le code est rédigé en anglais, mais le texte affiché est en français.
+ - Un certain nombre de fonctionnalités ne sont pas opérationnelles ou implémentées.
+ - On ne peut pas ajouter/supprimer de joueurs après lancement
+ - On ne peut pas changer le nombre de cartes en cours de parties
+ - Il n'y a pas de joker.
+
+
+	PISTES A DEVELOPPER
+ - faire en sorte qu'un joueur puisse une carte absolument identique à celle du dessus de la pile inopinément
+ - séparer les 2 interfaces de manière plus efficace
+ - séparer l'action de plusieurs effets d'une même carte (par exemple stopAttack et changeColor
+ - implémenter plus de variantes
+ - ajouter la possibilité à l'utilisateur de composer ses propres règles
+ - ajouter possibilité à l'utilisateur de créer ses propres règles
+ - ahouter possibilité à l'utilisateur de sauvegarder une partie en cours et la restituer si voulut
+
+pas possible de séparer 2 effets sur un même carte (changeColor et stopAttack par exemple)
+obligation saisie nom dans la console
+
+
+	SOURCE
+image (libre de droit) : https://pixabay.com/fr/jeu-de-cartes-carte-jeu-jouer-48983/
+
